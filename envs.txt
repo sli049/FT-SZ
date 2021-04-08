@@ -1,0 +1,409 @@
+CPLUS_INCLUDE_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/include
+MKLROOT=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl
+LMOD_FAMILY_COMPILER_VERSION=17.0.4-74uvhji
+SZx_HOME=/home/USER/SZx-install
+MANPATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/share/man:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod/share/man:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/share/man:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/man:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/man::
+PNetCDF_SZ=/home/USER/PnetCDF-SZ
+XDG_SESSION_ID=13124
+_ModuleTable003_=TmFtZSJdPSJpbnRlbC8xNy4wLjQtNzR1dmhqaSIsfSxbImludGVsLW1rbCJdPXtbImZuIl09Ii9ibHVlcy9ncGZzL2hvbWUvc29mdHdhcmUvc3BhY2stMC4xMC4xL3NoYXJlL3NwYWNrL2xtb2QvbGludXgtY2VudG9zNy14ODZfNjQvaW50ZWwvMTcuMC40L2ludGVsLW1rbC8yMDE3LjMuMTk2LXY3dXVqNnoubHVhIixbImZ1bGxOYW1lIl09ImludGVsLW1rbC8yMDE3LjMuMTk2LXY3dXVqNnoiLFsibG9hZE9yZGVyIl09Myxwcm9wVD17fSxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWwtbWtsIix9LFsiaW50ZWwtbXBpIl09e1siZm4iXT0iL2JsdWVzL2dwZnMvaG9tZS9zb2Z0d2FyZS9zcGFjay0wLjEwLjEvc2hhcmUvc3BhY2svbG1vZC9saW51eC1jZW50
+HOSTNAME=beboplogin1
+TERM_PROGRAM=vscode
+NEK_HOME=/lcrc/project/radix/shdi/nek5_git/Nek5000
+LIB_HYPRE=/home/USER/hypre-2.9.0b/src/hypre/lib
+SDA_HOME=/home/USER/qcat
+INTEL_LICENSE_FILE=28518@lic-vmw-01.cels.anl.gov
+SPACK_HOME=/home/USER/spack-0.16.0
+SHELL=/bin/bash
+TERM=xterm-256color
+HISTSIZE=100000
+LMOD_SYSTEM_DEFAULT_MODULES=StdEnv
+SSH_CLIENT=73.92.27.77 53317 22
+PNETCDF_HINTS=nc_header_align_size=1048576
+LIBRARY_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/tbb/lib/intel64_lin/gcc4.7:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/compiler/lib/intel64_lin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/lib/intel64_lin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/tbb/lib/intel64/gcc4.4:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/lib/intel64
+TERM_PROGRAM_VERSION=1.53.2
+LMOD_PKG=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod
+LMOD_VERSION=7.4.9
+MIC_LD_LIBRARY_PATH=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/compiler/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/tbb/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/tbb/lib/mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/lib/mic
+_ModuleTable007_=eDg2XzY0L0NvcmUiLH0=
+ZChecker_HOME=/home/USER/Z-checker-installer
+SZ_HOME=/home/USER/SZ-2.1.11-install
+SZ3_Private_HOME=/home/USER/SZ3_Private/build/test
+CMAKE_HOME=/home/USER/cmake/cmake-3.15.2-Linux-x86_64
+USER=USER
+WRFIO_NCD_LARGE_FILE_SUPPORT=1
+GENERICIO_USE_MPIIO=1
+LD_LIBRARY_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/lib:/home/USER/netcdf-c-4.7.4-install/lib:/lcrc/project/ECP-EZ/shdi/LibpressioOpt/libpressio_opt_example/.spack-env/view/lib64:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/lib:/lib:/home/USER/FFTW/FFTW-install/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/lib:/home/USER/zfp-0.5.5/zfp/lib:/soft/netcdf/4.1.1-serial/lib:/home/USER/Z-checker-installer/lib:/home/USER/jdk1.8.0_131/jre/lib/amd64/server:/home/USER/SZ-2.1.11-install/lib:/home/USER/netcdf-4.6.0-install/lib:/home/USER/sz-2.0-test/SZ/NetCDFReader:/home/USER/BlosC/c-blosc-install/lib:/home/USER/hdf5-software/hdf5-1.10.1-install/lib:/lib:/soft/R/3.2.2/lib64/R/lib:/home/USER/sz-1.4.9-hacc/example/testcode/build/lib/3rdparty/sz:/home/USER/jdk1.7.0_67/jre/lib/amd64/server:/home/USER/FLASH/changeFromAID2SVM/aid-0.2-svm/lib:/home/USER/fti-0.9.4/FTI/lib:/home/USER/hypre-2.9.0b/src/hypre/lib:/home/USER/gsl-1.16-install/lib:/home/USER/netcdf-c-4.7.4-install/lib:/lcrc/project/ECP-EZ/shdi/LibpressioOpt/libpressio_opt_example/.spack-env/view/lib64:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/lib:/lib:/home/USER/FFTW/FFTW-install/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/lib:/home/USER/zfp-0.5.5/zfp/lib:/soft/netcdf/4.1.1-serial/lib:/home/USER/Z-checker-installer/lib:/home/USER/jdk1.8.0_131/jre/lib/amd64/server:/home/USER/SZ-2.1.11-install/lib:/home/USER/netcdf-4.6.0-install/lib:/home/USER/sz-2.0-test/SZ/NetCDFReader:/home/USER/BlosC/c-blosc-install/lib:/home/USER/hdf5-software/hdf5-1.10.1-install/lib:/lib:/soft/R/3.2.2/lib64/R/lib:/home/USER/sz-1.4.9-hacc/example/testcode/build/lib/3rdparty/sz:/home/USER/jdk1.7.0_67/jre/lib/amd64/server:/home/USER/FLASH/changeFromAID2SVM/aid-0.2-svm/lib:/home/USER/fti-0.9.4/FTI/lib:/home/USER/hypre-2.9.0b/src/hypre/lib:/home/USER/gsl-1.16-install/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/lib:/home/USER/netcdf-c-4.7.4-install/lib:/lcrc/project/ECP-EZ/shdi/LibpressioOpt/libpressio_opt_example/.spack-env/view/lib64:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/lib:/lib:/home/USER/FFTW/FFTW-install/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/lib:/home/USER/zfp-0.5.5/zfp/lib:/soft/netcdf/4.1.1-serial/lib:/home/USER/Z-checker-installer/lib:/home/USER/jdk1.8.0_131/jre/lib/amd64/server:/home/USER/SZ-2.1.11-install/lib:/home/USER/netcdf-4.6.0-install/lib:/home/USER/sz-2.0-test/SZ/NetCDFReader:/home/USER/BlosC/c-blosc-install/lib:/home/USER/hdf5-software/hdf5-1.10.1-install/lib:/lib:/soft/R/3.2.2/lib64/R/lib:/home/USER/sz-1.4.9-hacc/example/testcode/build/lib/3rdparty/sz:/home/USER/jdk1.7.0_67/jre/lib/amd64/server:/home/USER/FLASH/changeFromAID2SVM/aid-0.2-svm/lib:/home/USER/fti-0.9.4/FTI/lib:/home/USER/hypre-2.9.0b/src/hypre/lib:/home/USER/gsl-1.16-install/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/tbb/lib/intel64_lin/gcc4.7:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/compiler/lib/intel64_lin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/lib/intel64_lin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/mic/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/lib:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/tbb/lib/intel64/gcc4.4:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/lib/intel64
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+PROTOBUF_HOME=/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install
+MIC_LIBRARY_PATH=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/compiler/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/tbb/lib/intel64_lin_mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/tbb/lib/mic:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/lib/mic
+LMOD_MPI_NAME=intel-mpi
+_ModuleTable004_=b3M3LXg4Nl82NC9pbnRlbC8xNy4wLjQvaW50ZWwtbXBpLzIwMTcuMy1kZnBocTZrLmx1YSIsWyJmdWxsTmFtZSJdPSJpbnRlbC1tcGkvMjAxNy4zLWRmcGhxNmsiLFsibG9hZE9yZGVyIl09Mixwcm9wVD17fSxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iaW50ZWwtbXBpIix9LG1hdGxhYj17WyJmbiJdPSIvc29mdC9iZWJvcC9tb2R1bGVmaWxlcy9tYXRsYWIvUjIwMTlhLmx1YSIsWyJmdWxsTmFtZSJdPSJtYXRsYWIvUjIwMTlhIixbImxvYWRPcmRlciJdPTcscHJvcFQ9e30sWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09Im1hdGxhYi9SMjAxOWEiLH0sbmN1cnNlcz17WyJmbiJdPSIvYmx1ZXMvZ3Bmcy9ob21lL3NvZnR3YXJlL3NwYWNrLTAuMTAu
+CPATH=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/include:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/include:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/tbb/include
+NetCDF_HOME=/home/USER/netcdf-4.6.0-install
+ZFP_HOME=/home/USER/zfp-0.5.5/zfp
+LMOD_FAMILY_MPI_VERSION=2017.3-dfphq6k
+NetCDF_READER=/home/USER/sz-2.0-test/SZ/NetCDFReader
+NLSPATH=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/compilers_and_libraries_2017.4.196/linux/mkl/lib/intel64_lin/locale/%l_%t/%N:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/compilers_and_libraries_2017.4.193/linux/compiler/lib/intel64/locale/%l_%t/%N
+_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPWZhbHNlLFsiY19zaG9ydFRpbWUiXT1mYWxzZSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImludGVsIixbIm1waSJdPSJpbnRlbC1tcGkiLH0sbVQ9e1N0ZEVudj17WyJmbiJdPSIvYmx1ZXMvZ3Bmcy9ob21lL3NvZnR3YXJlL3NwYWNrLTAuMTAuMS9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LWNlbnRvczcteDg2XzY0L0NvcmUvU3RkRW52Lmx1YSIsWyJmdWxsTmFtZSJdPSJTdGRFbnYiLFsibG9hZE9yZGVyIl09NCxwcm9wVD17fSxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iU3RkRW52Iix9LGN1cmw9e1siZm4iXT0iL3NvZnR3YXJlL2NlbnRvczcvc3BhY2stbGF0
+MAIL=/var/spool/mail/USER
+PATH=/soft/bebop/matlab/R2019a/etc/glnxa64:/soft/bebop/matlab/R2019a/bin:/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/bin:.:/home/USER/SZ3_Private/build/test:/home/USER/netcdf-c-4.7.4-install/bin:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/bin:/home/USER/spack-0.16.0/bin:/home/USER/SZ-2.1.11-install/bin:/home/USER/SZx-install/bin:/bin:/home/USER/FFTW/FFTW-install/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/bin:/home/USER/zfp-0.5.5/zfp/bin:/home/USER/qcat/examples:/home/USER/parallel-netcdf-1.9.0.pre1-install/bin:/home/USER/z-checker-installer/Z-checker/examples:/home/USER/da-0.1/examples:/home/USER/netcdf-4.6.0-install/bin:/home/USER/sz-2.0-test/SZ/NetCDFReader/test:/home/USER/PnetCDF-SZ:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/dataimage-generator:/home/USER/z-checker-installer/zfp/bin:/bin:/bin:/home/USER/hdf5-software:/home/USER/hdf5-software/hdf5-1.10.1-install/bin:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/smem-1.4:/home/USER/gnuplot_x11/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/my-tools-bin:/bin:/home/USER/jdk1.8.0_131/bin:/gpfs/fs1/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/bin:.:/home/USER/SZ3_Private/build/test:/home/USER/netcdf-c-4.7.4-install/bin:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/bin:/home/USER/spack-0.16.0/bin:/home/USER/SZ-2.1.11-install/bin:/home/USER/SZx-install/bin:/bin:/home/USER/FFTW/FFTW-install/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/bin:/home/USER/zfp-0.5.5/zfp/bin:/home/USER/qcat/examples:/home/USER/parallel-netcdf-1.9.0.pre1-install/bin:/home/USER/z-checker-installer/Z-checker/examples:/home/USER/da-0.1/examples:/home/USER/netcdf-4.6.0-install/bin:/home/USER/sz-2.0-test/SZ/NetCDFReader/test:/home/USER/PnetCDF-SZ:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/dataimage-generator:/home/USER/z-checker-installer/zfp/bin:/bin:/bin:/home/USER/hdf5-software:/home/USER/hdf5-software/hdf5-1.10.1-install/bin:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/smem-1.4:/home/USER/gnuplot_x11/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/my-tools-bin:/bin:/home/USER/jdk1.8.0_131/bin:/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/bin:.:/home/USER/SZ3_Private/build/test:/home/USER/netcdf-c-4.7.4-install/bin:/lcrc/project/ECP-EZ/shdi/protobuf-2.6.1-install/bin:/home/USER/spack-0.16.0/bin:/home/USER/SZ-2.1.11-install/bin:/home/USER/SZx-install/bin:/bin:/home/USER/FFTW/FFTW-install/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/bin:/home/USER/zfp-0.5.5/zfp/bin:/home/USER/qcat/examples:/home/USER/parallel-netcdf-1.9.0.pre1-install/bin:/home/USER/z-checker-installer/Z-checker/examples:/home/USER/da-0.1/examples:/home/USER/netcdf-4.6.0-install/bin:/home/USER/sz-2.0-test/SZ/NetCDFReader/test:/home/USER/PnetCDF-SZ:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/dataimage-generator:/home/USER/z-checker-installer/zfp/bin:/bin:/bin:/home/USER/hdf5-software:/home/USER/hdf5-software/hdf5-1.10.1-install/bin:/home/USER/cmake/cmake-3.15.2-Linux-x86_64/bin:/home/USER/smem-1.4:/home/USER/gnuplot_x11/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/bin:/lcrc/project/radix/shdi/nek5_git/Nek5000/my-tools-bin:/bin:/home/USER/jdk1.8.0_131/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/bin:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/soft/lcrc/bebop/bin:/home/USER:/home/USER/bin:/soft/lcrc/bebop/bin:/home/USER:/home/USER/bin:/soft/lcrc/bebop/bin:/home/USER
+PNetCDF_ZFP=/home/USER/PnetCDF-ZFP
+C_INCLUDE_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/include
+LMOD_SETTARG_CMD=:
+GNUPLOT_HOME=/home/USER/gnuplot_x11
+PWD=/home/USER/sihuan_SC21/Author-Kit
+JAVA_HOME=/home/USER/jdk1.8.0_131
+_LMFILES_=/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/Core/intel/17.0.4-74uvhji.lua:/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/intel/17.0.4/intel-mpi/2017.3-dfphq6k.lua:/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/intel/17.0.4/intel-mkl/2017.3.196-v7uuj6z.lua:/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/Core/StdEnv.lua:/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/intel/17.0.4/ncurses/6.1-hxx6kln.lua:/software/centos7/spack-latest/share/spack/lmod/linux-centos7-x86_64/Core/curl/7.72.0-w3ekl3l.lua:/soft/bebop/modulefiles/matlab/R2019a.lua
+LANG=en_US.UTF-8
+MODULEPATH=/blues/gpfs/home/software/spack-0.10.1/share/spack/lmod/linux-centos7-x86_64/Core:/soft/bebop/modulefiles:/software/centos7/spack/share/spack/lmod/linux-centos7-x86_64/Core:/software/centos7/modulefiles:/software/centos7/spack-latest/share/spack/lmod/linux-centos7-x86_64/Core
+_ModuleTable_Sz_=7
+LOADEDMODULES=intel/17.0.4-74uvhji:intel-mpi/2017.3-dfphq6k:intel-mkl/2017.3.196-v7uuj6z:StdEnv:ncurses/6.1-hxx6kln:curl/7.72.0-w3ekl3l:matlab/R2019a
+NETCDF4_HOME=/home/USER/netcdf-c-4.7.4-install
+TUCKERMPI_PATH=/home/USER/TuckerMPI/build
+SDCHOME=/home/USER/FLASH/changeFromAID2SVM/aid-0.2-svm
+_ModuleTable005_=MS9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LWNlbnRvczcteDg2XzY0L2ludGVsLzE3LjAuNC9uY3Vyc2VzLzYuMS1oeHg2a2xuLmx1YSIsWyJmdWxsTmFtZSJdPSJuY3Vyc2VzLzYuMS1oeHg2a2xuIixbImxvYWRPcmRlciJdPTUscHJvcFQ9e30sWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09Im5jdXJzZXMiLH0sfSxtcGF0aEE9eyIvYmx1ZXMvZ3Bmcy9ob21lL3NvZnR3YXJlL3NwYWNrLTAuMTAuMS9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LWNlbnRvczcteDg2XzY0L0NvcmUiLCIvc29mdC9iZWJvcC9tb2R1bGVmaWxlcyIsIi9zb2Z0d2FyZS9jZW50b3M3L3NwYWNrL3NoYXJlL3NwYWNrL2xtb2QvbGludXgtY2VudG9zNy14ODZfNjQvQ29yZSIsIi9zb2Z0d2FyZS9j
+LMOD_CMD=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod/libexec/lmod
+LM_LICENSE_FILE=27000@lic-vmw-01.cels.anl.gov
+CXX=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc/bin/icc
+HISTCONTROL=ignoredups
+SHLVL=6
+HOME=/home/USER
+VSCODE_GIT_ASKPASS_MAIN=/gpfs/fs1/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/extensions/git/dist/askpass-main.js
+HDF5_PLUGIN_PATH=/home/USER/Digit_Rounding/libh5dround:/home/USER/SZ-2.1.11-install/lib:/home/USER/h5z-zfp/H5Z-ZFP/src/plugin:
+BlosC_HOME=/home/USER/BlosC/c-blosc-install
+_ModuleTable002_=ZXN0L3NoYXJlL3NwYWNrL2xtb2QvbGludXgtY2VudG9zNy14ODZfNjQvQ29yZS9jdXJsLzcuNzIuMC13M2VrbDNsLmx1YSIsWyJmdWxsTmFtZSJdPSJjdXJsLzcuNzIuMC13M2VrbDNsIixbImxvYWRPcmRlciJdPTYscHJvcFQ9e30sWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImN1cmwiLH0saW50ZWw9e1siZm4iXT0iL2JsdWVzL2dwZnMvaG9tZS9zb2Z0d2FyZS9zcGFjay0wLjEwLjEvc2hhcmUvc3BhY2svbG1vZC9saW51eC1jZW50b3M3LXg4Nl82NC9Db3JlL2ludGVsLzE3LjAuNC03NHV2aGppLmx1YSIsWyJmdWxsTmFtZSJdPSJpbnRlbC8xNy4wLjQtNzR1dmhqaSIsWyJsb2FkT3JkZXIiXT0xLHByb3BUPXt9LFsic3RhdHVzIl09ImFjdGl2ZSIsWyJ1c2Vy
+NETCDF=/soft/netcdf/4.1.1-serial
+BASH_ENV=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod/init/bash
+FFTW_HOME=/home/USER/FFTW/FFTW-install
+LOGNAME=USER
+HYPRE=/home/USER/hypre-2.9.0b/src/hypre
+CLASSPATH=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64/lib/mpi.jar
+XDG_DATA_DIRS=/home/USER/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+SSH_CONNECTION=73.92.27.77 53317 140.221.70.5 22
+VSCODE_GIT_IPC_HANDLE=/run/user/6429/vscode-git-f7d1089bc5.sock
+FTIHOME=/home/USER/fti-0.9.4/FTI
+MPI_HOME=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi/intel64
+MODULESHOME=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod
+VSCODE_IPC_HOOK_CLI=/run/user/6429/vscode-ipc-ba12deea-d36d-439d-bea8-bf3340a35cb3.sock
+PKG_CONFIG_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/lib/pkgconfig:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk/lib/pkgconfig
+OMP_NUM_THREADS=32
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+R_HOME=/soft/R/3.2.2/lib64/R
+LMOD_MPI_VERSION=2017.3-dfphq6k
+__Init_Default_Modules=1
+BROWSER=/gpfs/fs1/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/bin/helpers/browser.sh
+ACLOCAL_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/share/aclocal
+LMOD_FAMILY_COMPILER=intel
+LMOD_FULL_SETTARG_SUPPORT=no
+GIT_ASKPASS=/gpfs/fs1/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/extensions/git/dist/askpass.sh
+VSCODE_GIT_ASKPASS_NODE=/gpfs/fs1/home/USER/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/node
+CMAKE_PREFIX_PATH=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/ncurses-6.1-hxx6klnrfwbjaagymynpxagsoe5qyrjk:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mkl-2017.3.196-v7uuj6zmthzln35n2hb7i5u5ybncv5ev:/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/intel-17.0.4-74uvhjiulyqgvsmywifbbuo46v5n42xc
+XDG_RUNTIME_DIR=/run/user/6429
+_ModuleTable006_=ZW50b3M3L21vZHVsZWZpbGVzIiwiL3NvZnR3YXJlL2NlbnRvczcvc3BhY2stbGF0ZXN0L3NoYXJlL3NwYWNrL2xtb2QvbGludXgtY2VudG9zNy14ODZfNjQvQ29yZSIsfSxbInN5c3RlbUJhc2VNUEFUSCJdPSIvYmx1ZXMvZ3Bmcy9ob21lL3NvZnR3YXJlL3NwYWNrLTAuMTAuMS9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LWNlbnRvczcteDg2XzY0L0NvcmU6L3NvZnQvYmVib3AvbW9kdWxlZmlsZXM6L3NvZnR3YXJlL2NlbnRvczcvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC1jZW50b3M3LXg4Nl82NC9Db3JlOi9zb2Z0d2FyZS9jZW50b3M3L21vZHVsZWZpbGVzOi9zb2Z0d2FyZS9jZW50b3M3L3NwYWNrLWxhdGVzdC9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LWNlbnRvczct
+LMOD_DIR=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/gcc-4.8.5/lmod-7.4.9-ic63herzfgw5u3na5mdtvp3nwxy6oj2z/lmod/lmod/libexec
+INCLUDE=/gpfs/fs1/software/centos7/spack-latest/opt/spack/linux-centos7-x86_64/gcc-6.5.0/curl-7.72.0-bnppi6e/include
+LMOD_FAMILY_MPI=intel-mpi
+HDF5_HOME=/home/USER/hdf5-software/hdf5-1.10.1-install
+SMEMHOME=/home/USER/smem-1.4
+I_MPI_ROOT=/blues/gpfs/home/software/spack-0.10.1/opt/spack/linux-centos7-x86_64/intel-17.0.4/intel-mpi-2017.3-dfphq6kavje2olnichisvjjndtridrok/compilers_and_libraries_2017.4.196/linux/mpi
+COLORTERM=truecolor
+BASH_FUNC_module()=() {  eval $($LMOD_CMD bash "$@") && eval $(${LMOD_SETTARG_CMD:-:} -s sh)
+}
+BASH_FUNC_ml()=() {  eval $($LMOD_DIR/ml_cmd "$@")
+}
+_=/bin/env
+Linux beboplogin1 3.10.0-1127.18.2.el7.x86_64 #1 SMP Sun Jul 26 15:27:06 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                36
+On-line CPU(s) list:   0-35
+Thread(s) per core:    1
+Core(s) per socket:    18
+Socket(s):             2
+NUMA node(s):          2
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 79
+Model name:            Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz
+Stepping:              1
+CPU MHz:               1199.963
+CPU max MHz:           3300.0000
+CPU min MHz:           1200.0000
+BogoMIPS:              4153.34
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              46080K
+NUMA node0 CPU(s):     0-17
+NUMA node1 CPU(s):     18-35
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch epb cat_l3 cdp_l3 invpcid_single intel_ppin intel_pt ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm rdt_a rdseed adx smap xsaveopt cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts spec_ctrl intel_stibp flush_l1d
+MemTotal:       131984340 kB
+MemFree:        120711900 kB
+MemAvailable:   125646476 kB
+Buffers:             112 kB
+Cached:          5741596 kB
+SwapCached:            0 kB
+Active:          3524764 kB
+Inactive:        3790600 kB
+Active(anon):    1640764 kB
+Inactive(anon):   126600 kB
+Active(file):    1884000 kB
+Inactive(file):  3664000 kB
+Unevictable:     2114584 kB
+Mlocked:         2097152 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:       3689016 kB
+Mapped:           325320 kB
+Shmem:            176276 kB
+Slab:             499132 kB
+SReclaimable:     295728 kB
+SUnreclaim:       203404 kB
+KernelStack:       21104 kB
+PageTables:        36616 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    65992168 kB
+Committed_AS:    3339660 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      767372 kB
+VmallocChunk:   34291605524 kB
+Percpu:             9600 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:   3020800 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      333160 kB
+DirectMap2M:    19492864 kB
+DirectMap1G:    116391936 kB
+NAME                MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda                   8:0    0 931.5G  0 disk 
+└─scratch-lvscratch 253:0    0 931.5G  0 lvm  /scratch
+loop0                 7:0    0         1 loop 
+H/W path         Device        Class          Description
+=========================================================
+                               system         Computer
+/0                             bus            Motherboard
+/0/0                           memory         128GiB System memory
+/0/1                           processor      Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz
+/0/2                           processor      Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz
+/0/100                         bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2
+/0/100/1                       bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 1
+/0/100/1/0                     network        MT27600 [Connect-IB]
+/0/100/2                       bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/2/0       ib0           network        Omni-Path HFI Silicon 100 Series [discrete]
+/0/100/3                       bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/100/3.2                     bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/100/3.2/0     ens802f0      network        82599ES 10-Gigabit SFI/SFP+ Network Connection
+/0/100/3.2/0.1   ens802f1      network        82599ES 10-Gigabit SFI/SFP+ Network Connection
+/0/100/4                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+/0/100/4.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+/0/100/4.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+/0/100/4.3                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+/0/100/4.4                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+/0/100/4.5                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+/0/100/4.6                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+/0/100/4.7                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+/0/100/5                       generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management
+/0/100/5.1                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug
+/0/100/5.2                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors
+/0/100/5.4                     generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+/0/100/11                      generic        C610/X99 series chipset SPSR
+/0/100/11.4                    storage        C610/X99 series chipset sSATA Controller [AHCI mode]
+/0/100/16                      communication  C610/X99 series chipset MEI Controller #1
+/0/100/16.1                    communication  C610/X99 series chipset MEI Controller #2
+/0/100/1a                      bus            C610/X99 series chipset USB Enhanced Host Controller #2
+/0/100/1c                      bridge         C610/X99 series chipset PCI Express Root Port #1
+/0/100/1c.3                    bridge         C610/X99 series chipset PCI Express Root Port #4
+/0/100/1c.3/0                  display        MGA G200e [Pilot] ServerEngines (SEP1)
+/0/100/1c.4                    bridge         C610/X99 series chipset PCI Express Root Port #5
+/0/100/1c.4/0    eno1          network        I350 Gigabit Network Connection
+/0/100/1c.4/0.1  eno2          network        I350 Gigabit Network Connection
+/0/100/1d                      bus            C610/X99 series chipset USB Enhanced Host Controller #1
+/0/100/1f                      bridge         C610/X99 series chipset LPC Controller
+/0/100/1f.2                    storage        C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+/0/100/1f.3                    bus            C610/X99 series chipset SMBus Controller
+/0/3                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/6                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/7                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/8                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/9                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/a                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/b                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/c                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/d                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/e                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug
+/0/f                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/10                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/11                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/12                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/13                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/14                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/15                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/16                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/17                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/18                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/19                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/20                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/21                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/22                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/23                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/24                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/25                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/26                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/27                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/28                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/29                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/2a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/2e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/2f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/30                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/31                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/32                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/33                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/34                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/35                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast
+/0/36                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/37                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+/0/38                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+/0/39                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+/0/3a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+/0/3b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/40                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/41                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/42                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/43                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast
+/0/44                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/45                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+/0/46                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+/0/47                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+/0/48                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+/0/49                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/4e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/4f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/50                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/51                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/52                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/53                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/4                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+/0/4.1                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+/0/4.2                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+/0/4.3                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+/0/4.4                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+/0/4.5                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+/0/4.6                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+/0/4.7                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+/0/5                           generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management
+/0/5.1                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug
+/0/5.2                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors
+/0/5.4                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+/0/54                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/55                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/56                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/57                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/58                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/59                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/5a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug
+/0/5e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/5f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/60                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/61                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/62                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/63                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/64                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/65                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/66                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/67                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/68                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/69                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/70                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/71                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/72                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/73                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/74                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/75                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/76                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/77                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/78                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/79                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/7a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/7b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/7c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/7d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/7e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/7f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/80                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/81                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/82                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/83                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/84                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast
+/0/85                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/86                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+/0/87                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+/0/88                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+/0/89                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+/0/8a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/8b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/8c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/8d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/8e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/8f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/90                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/91                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/92                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast
+/0/93                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/94                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+/0/95                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+/0/96                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+/0/97                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+/0/98                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/99                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/9a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/9b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/9c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/a0                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/a1                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/a2                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/a3                          system         PnP device PNP0b00
+/0/a4                          system         PnP device PNP0c02
+/0/a5                          communication  PnP device PNP0501
+/1               ens802f0.700  network        Ethernet interface
