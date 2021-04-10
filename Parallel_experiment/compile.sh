@@ -1,0 +1,2 @@
+mpicc -std=c99 -O3 parallel_sz_2.0.c -o parallel_sz -I/home/sihuan.li/localAPP/SZ_rand_noerr/install/include /home/sihuan.li/localAPP/SZ_rand_noerr/install/lib/libSZ.a /home/sihuan.li/localAPP/SZ_rand_noerr/install/lib/libzlib.a /home/sihuan.li/localAPP/SZ_rand_noerr/install/lib/libzstd.a -lm
+mpicc -std=c99 -O3 parallel_sz_ft.c -o parallel_sz_ft -I/home/sihuan.li/localAPP/SZ_ft_para/install/include /home/sihuan.li/localAPP/SZ_ft_para/install/lib/libSZ.a /home/sihuan.li/localAPP/SZ_ft_para/install/lib/libzlib.a /home/sihuan.li/localAPP/SZ_ft_para/install/lib/libzstd.a -lm
