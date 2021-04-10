@@ -214,36 +214,7 @@ int main(int argc, char * argv[])
 		float *dataOut = NULL;
 		//float *dataOut = SZ_decompress(SZ_FLOAT, compressed_output_pos, compressed_size[i], r5, r4, r3, r2, r1);
 		SZ_decompress_args_randomaccess_float(&dataOut, 0, 0, 512, 512, 512, 0,0, 0, 0, 0, 0, 0, 512, 512, 512,compressed_output_pos, compressed_size[i]);
-		MPI_Barrier(MPI_COMM_WORLD);
-#if 0
-			sprintf(filename, "%s/%d/%s", folder, folder_index, file[i]);
-		sprintf(zip_filename, "%s/%d/%s.sz", folder, folder_index, file[i]);
-		// Read Input Data
-		if(world_rank == 0){
-			start = MPI_Wtime();
-			dataIn = readFloatData(filename, &nbEle, &status);
-			end = MPI_Wtime();
-			printf("file %s read time: %.2f\n", filename, end - start);
-			start = MPI_Wtime();
-			MPI_Bcast(&nbEle, 1, MPI_UNSIGNED_LONG_LONG, 0, MPI_COMM_WORLD);
-			MPI_Bcast(dataIn, nbEle, MPI_FLOAT, 0, MPI_COMM_WORLD);
-			end = MPI_Wtime();
-			printf("broadcast time: %.2f\n", end - start);
-		}
-		else{
-			MPI_Bcast(&nbEle, 1, MPI_UNSIGNED_LONG_LONG, 0, MPI_COMM_WORLD);
-			dataIn = (float *) malloc(nbEle * sizeof(float));
-			MPI_Bcast(dataIn, nbEle, MPI_FLOAT, 0, MPI_COMM_WORLD);
-		}
-		MPI_Barrier(MPI_COMM_WORLD);
-		if(world_rank == 0){
-			end = MPI_Wtime();
-			costReadOri += end - start;
-		}
-		if (world_rank == 0){
-			verifyRandomAccess_3d(dataIn, dataOut, 512, 512, 512, 0, 0, 0, 512, 512, 512);}
-		free(dataIn);
-#endif		
+		MPI_Barrier(MPI_COMM_WORLD);	
 
 		if(world_rank == 0){
 			end = MPI_Wtime();
